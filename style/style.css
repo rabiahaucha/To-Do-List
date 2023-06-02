@@ -1,0 +1,42 @@
+body{
+    background:url("https://i.postimg.cc/7P5h4qy4/back.png") center no-repeat;
+    background-size: 30%;
+    background-position: 47%;
+    background-position-y: -5%;
+}
+.slogan{
+    color:#c9a580;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    text-decoration: underline;
+
+}
+.container{
+    border: 4px solid black;
+    border-radius: 20%;
+    width: 20rem;
+    height: 26rem;
+    margin-top: 8rem;
+    margin-left: 35rem;
+    
+}
+.row{
+    text-align: center;
+    margin-top: 5rem;
+}
+#add{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+}
+#todo-Input{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+}
+#sorting{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+}
+button:hover{
+    background-color: #c9a580;
+}
